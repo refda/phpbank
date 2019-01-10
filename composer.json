@@ -1,7 +1,7 @@
 {
-  "name": "nemiah/php-fints",
+  "name": "refda/phpbank",
   "description": "PHP Library for the protocols fints and hbci",
-  "homepage": "https://github.com/nemiah/phpFinTS",
+  "homepage": "https://github.com/refda/phpbank",
   "version": "2.0",
   "license": "MIT",
   "autoload": {
